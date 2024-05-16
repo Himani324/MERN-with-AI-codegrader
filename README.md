@@ -5,7 +5,7 @@
  <img width="350" height="100" src="https://github.com/Himani324/MERN-with-AI-codegrader/blob/6fefa377cf4beb0774fd0d92c447992dd1b54284/frontendcg/src/assets/Images/logo-transparent-png%20(1).png">
 </p>
 <p align="left">
- <img width="500" height="200" src="https://github.com/Himani324/MERN-with-AI-codegrader/blob/5634e23092c0591208d7a0f69b9bda97f67e142b/frontendcg/src/assets/Images/Picture1.png">
+ <img width="500" height="300" src="https://github.com/Himani324/MERN-with-AI-codegrader/blob/5634e23092c0591208d7a0f69b9bda97f67e142b/frontendcg/src/assets/Images/Picture1.png">
 </p>
 
 
