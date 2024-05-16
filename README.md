@@ -2,7 +2,7 @@
 # Code Grader: AI-Powered Assignment Grading System - New York Institute of Technology Capstone Project
 
 <p align="left">
- <img width="200" height="180" src="https://github.com/kashyapshukla/Auto_grading/blob/main/frontendcg/src/assets/Images/logo-png%20(6).jpg">
+ <img width="350" height="100" src="https://github.com/Himani324/MERN-with-AI-codegrader/blob/6fefa377cf4beb0774fd0d92c447992dd1b54284/frontendcg/src/assets/Images/logo-transparent-png%20(1).png">
 </p>
 
 
