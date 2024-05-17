@@ -8,14 +8,9 @@
  <img width="500" height="300" src="https://github.com/Himani324/MERN-with-AI-codegrader/blob/5634e23092c0591208d7a0f69b9bda97f67e142b/frontendcg/src/assets/Images/Picture1.png">
 </p>
 
-<video width="320" height="240" controls>
- <source src="https://youtu.be/g_ZKlEempc4">
- Your browser does not support the video tag.
-</video>
-
-<video controls="controls" width="800" height="600" name="Video Name">
-  <source src="https://youtu.be/g_ZKlEempc4">
-</video>
+<iframe height="480" width="500" 
+            src="https://youtu.be/g_ZKlEempc4"> 
+ </iframe> 
 
 
 # Project Description:
